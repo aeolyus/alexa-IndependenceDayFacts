@@ -1,0 +1,13 @@
+{
+  "name": "independence day facts",
+  "version": "0.0.1",
+  "description": "A simple Alexa skill running as an AWS Lambda function that gives random independence day facts",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "license": "MIT"
+}
